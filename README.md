@@ -2,4 +2,4 @@
 Sentimental analysis using VADER and machine learning algorithm.
 
 
-For Dataset please email me: ahmmadmusha@gmail.com
+For Dataset please email me: mushaxyz@gmail.com
